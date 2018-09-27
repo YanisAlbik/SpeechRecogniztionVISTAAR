@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity
             Toast.makeText(this, "Votre appareil ne support pas la reconnaissance vocale", Toast.LENGTH_SHORT).show();
         }
     }
-
+    //TEst git
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data)
     {
